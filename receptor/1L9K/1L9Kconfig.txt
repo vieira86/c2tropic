@@ -1,0 +1,14 @@
+receptor = 19LKfinal.pdbqt
+ligand = ligand.pdbqt
+
+center_x = 14.68
+center_y = -42.417
+center_z = 0.352
+
+size_x = 26
+size_y = 36
+size_z = 20
+
+energy_range = 4
+
+exhaustiveness = 8

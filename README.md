@@ -1,5 +1,5 @@
 <p>
-  <img src="C2TROPICS_INSTALATION/cheic-aba.png" alt="C2TROPIC Logo" width="150" style="vertical-align: middle;" />
+  <img src="C2TROPICS_INSTALATION/cheic-aba.png" alt="C2TROPIC Logo" width="200" style="vertical-align: middle;" />
   <span style="font-size:24px; font-weight:bold; margin-left:10px;"></span><br>
   <span style="font-size:16px;">Computational Chemistry for Tropical Diseases Solutions</span>
 </p>

@@ -32,6 +32,7 @@ C2TROPIC é uma plataforma computacional que permite analisar moléculas e preve
 ```bash
 conda create -n c2tropic_env python=3.11
 conda activate c2tropic_env
+```
 
 ### 5. Navegue até a pasta:
 cd caminho/para/c2tropic-installation

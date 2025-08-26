@@ -1,10 +1,10 @@
 <p>
   <img src="C2TROPICS_INSTALATION/cheic-aba.png" alt="C2TROPIC Logo" width="150" style="vertical-align: middle;" />
-  <span style="font-size:24px; font-weight:bold; margin-left:10px;">C2TROPIC</span><br>
+  <span style="font-size:24px; font-weight:bold; margin-left:10px;"></span><br>
   <span style="font-size:16px;">Computational Chemistry for Tropical Diseases Solutions</span>
 </p>
 
-Computational Chemistry for Tropical Diseases Solutions
+##Computational Chemistry for Tropical Diseases Solutions
 
 C2TROPIC é uma plataforma computacional que permite analisar moléculas e prever sua atividade contra doenças tropicais, classificando-as como **Ativa** ou **Inativa**.
 

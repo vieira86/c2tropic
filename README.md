@@ -6,7 +6,7 @@
 
 
 
-C2TROPIC é uma plataforma computacional que permite analisar moléculas e prever sua atividade contra doenças tropicais, classificando-as como **Ativa** ou **Inativa**.
+C2TROPICS é uma plataforma computacional que permite analisar moléculas e prever sua atividade contra doenças tropicais, classificando-as como **Ativa** ou **Inativa**.
 
 ---
 

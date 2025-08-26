@@ -36,8 +36,10 @@ conda activate c2tropic_env
 
 ### 5. Navegue até a pasta:
 cd caminho/para/c2tropic-installation
+```bash
 - pip install -r requirements.txt
 - streamlit run projeto.py
+```
 
 ### Sua plataforma terá essa cara:
 <p>

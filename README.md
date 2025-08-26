@@ -37,6 +37,7 @@ conda activate c2tropic_env
 ### 5. Navegue até a pasta:
 cd caminho/para/c2tropic-installation
 - pip install -r requirements.txt
+- streamlit run projeto.py
 
 ### Sua plataforma terá essa cara:
 <p>
@@ -45,3 +46,15 @@ cd caminho/para/c2tropic-installation
   <span style="font-size:16px;">Computational Chemistry for Tropical Diseases Solutions</span>
 </p>
 
+## 💁🏿Professor Orientador:
+
+<a href="https://github.com/vieira86" target="_blank">
+  <img src="https://github.com/vieira86.png" alt="Rafael Vieira" width="80" style="border-radius:50%;">
+</a>  
+
+**Rafael Vieira**  
+Professor de Química no Instituto Federal de Rondônia.
+Atua nas áreas de química orgânica, com ênfase em quimioinformática e aprendizado de máquina, nas soluções de problemas envolvendo química medicinal computacional.
+
+🔗 [GitHub - @vieira86](https://github.com/vieira86)  
+[![GitHub followers](https://img.shields.io/github/followers/vieira86?label=Follow&style=social)](https://github.com/vieira86)

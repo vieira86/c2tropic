@@ -42,7 +42,7 @@ cd caminho/para/c2tropic-installation
 ### Sua plataforma terá essa cara:
 <p>
   <img src="C2TROPICS_INSTALATION/platform.png" alt="C2TROPIC Logo" width="400" style="vertical-align: middle;" />
-  <span style="font-size:24px; font-weight:bold; margin-left:10px;">C2TROPIC</span><br>
+  <span style="font-size:24px; font-weight:bold; margin-left:10px;"></span><br>
   <span style="font-size:16px;">Computational Chemistry for Tropical Diseases Solutions</span>
 </p>
 
@@ -53,8 +53,7 @@ cd caminho/para/c2tropic-installation
 </a>  
 
 **Rafael Vieira**  
-Professor de Química no Instituto Federal de Rondônia.
-Atua nas áreas de química orgânica, com ênfase em quimioinformática e aprendizado de máquina, nas soluções de problemas envolvendo química medicinal computacional.
+Professor de Química no Instituto Federal de Rondônia, Rafael Vieira é especialista em química orgânica com ênfase em quimioinformática e aprendizado de máquina. Atua no desenvolvimento de soluções computacionais para problemas relacionados à química medicinal, combinando experimentação científica com ferramentas avançadas de modelagem molecular e análise de dados. Seu trabalho integra ensino, pesquisa e inovação, contribuindo para a formação de novos profissionais e para o avanço da química computacional aplicada a doenças tropicais.
 
 🔗 [GitHub - @vieira86](https://github.com/vieira86)  
 [![GitHub followers](https://img.shields.io/github/followers/vieira86?label=Follow&style=social)](https://github.com/vieira86)

@@ -1,0 +1,15 @@
+streamlit
+pandas
+rdkit-pypi
+mols2grid
+scikit-learn
+joblib
+openpyxl
+matplotlib
+mols2grid
+opencv_python
+Pillow
+plotly
+rdkit
+scikit_learn
+openpyxl
